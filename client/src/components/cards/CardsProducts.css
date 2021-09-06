@@ -1,0 +1,20 @@
+.paginado{
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  grid-template-columns: 50px 20px 50px;
+  grid-gap: 5px;
+}
+.pagina{
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  margin-top: 40px;
+}
+.card{
+  background-color:red;
+}
+.input_text{
+  background-color: beige;
+  width: 50px;
+}
