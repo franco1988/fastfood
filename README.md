@@ -1,8 +1,11 @@
 # Grupal Project - Fast Food
 
+## Link al deploy:
+**[https://optimistic-elion-4b1bee.netlify.app/](https://optimistic-elion-4b1bee.netlify.app/)**
+
 
 <p align="center">
-    <img height="400" src="./assets/fast-food.png"/>te
+    <img height="400" src="http://www.franquicias.net/wp-content/uploads/2019/10/FAST-FOOD-800-1.jpg"/>te
 </p>
 
 
@@ -56,7 +59,6 @@
 ##### * Este servidor corre en el puerto:3000
 =======
 
-## Link al deploy:
-**[https://optimistic-elion-4b1bee.netlify.app/](https://optimistic-elion-4b1bee.netlify.app/)**
+
 
 
